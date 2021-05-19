@@ -1,0 +1,13 @@
+.DS_Store
+.terraform.lock.hcl
+alert-channels/.terraform/*
+aws/.terraform/*
+aws/terraform.tfstate
+azure/.terraform/*
+azure/terraform.tfstate
+gcp/.terraform/*
+gcp/terraform.tfstate
+gcp/lacework-credentials.json
+terraform.tfstate
+*/terraform.tfstate.backup
+variables.tf
