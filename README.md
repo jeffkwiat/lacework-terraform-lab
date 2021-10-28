@@ -1,4 +1,6 @@
 # Lacework Terraform Lab
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/ae5313e9-7482-494a-9d19-db0d6ecc95af.svg)](https://app.soluble.cloud/repos/details/github.com/jeffkwiat/lacework-terraform-lab)  
 This lab walks through how to setup AWS, Azure, and GCP agentless integrations for Compliance and Cloud Security.
 ## Prerequisites
 This lab is running on a Macbook Pro laptop.  If you would like to follow along, the following software is required:
